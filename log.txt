@@ -1,0 +1,8 @@
+21/10/24 as 19:22:19 -> Internet caiu
+21/10/24 as 19:23:07 -> Internet retornou
+21/10/24 as 19:23:41 -> Conectado novamente
+21/10/24 as 19:24:00 -> Conectado novamente
+21/10/24 as 19:24:11 -> Conectado novamente
+10/21/24 as 19:31:18 -> Conectado novamente 
+10/21/24 as 19:31:36 -> Teste novo 
+21/10/24 as 19:32:19 -> Teste novo 
